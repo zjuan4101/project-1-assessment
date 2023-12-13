@@ -1,0 +1,16 @@
+
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+h1 {
+    text-align: center;
+}
+
+button:hover {
+    color: white;
+    background-color: gray;
+}
